@@ -1,5 +1,5 @@
 # Solidity-Assembly-Yul
-Using advanced Solidity, writing contracts in Yul
+Using advanced Solidity, writing Smart contracts in Yul
 
 Yul (previously also called JULIA or IULIA) is an intermediate language that can be compiled to bytecode for different backends.
 
